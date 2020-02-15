@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Mero Saapati</string>
+    <string name="debts">Debts</string>
+    <string name="allTab">ALL</string>
+    <string name="to_receive">TO RECEIVE</string>
+    <string name="to_pay">TO PAY</string>
+    <string name="net_amount">NET AMOUNT :</string>
+    <string name="contacts">Contacts</string>
+    <string name="more">More</string>
+    <string name="add">add</string>
+    <string name="paying_amount">PAYING AMOUNT :</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logo">logo</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="register">Register</string>
+    <string name="search">Search</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not registered?</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">to</string>
+    <string name="loading">Loading…</string>
+    <string name="backbutton">backbutton</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="add_debt">Add Debt</string>
+    <string name="done">done</string>
+    <string name="no_debt">NO DEBT</string>
+    <string name="people">people</string>
+    <string name="debt_amount">Debt Amount</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="transaction_date">Transaction Date</string>
+    <string name="due_date">Due Date</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="comment">Comment</string>
+    <string name="interest_rate_per_annum_if_any">Interest Rate Per Annum (if any)</string>
+    <string name="calculate_interest">Calculate Interest:</string>
+    <string name="debt_information">Debt Information</string>
+    <string name="_1500_00">1500.00</string>
+    <string name="you_are_paying">You are paying.</string>
+    <string name="address">Address</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="bookmark">bookmark</string>
+    <string name="_07_11_2018">07/11/2018</string>
+    <string name="_15_08_2019">15/08/2019</string>
+    <string name="e_mail">E-mail</string>
+    <string name="message">Message</string>
+    <string-array name="interest">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+
+</resources>
